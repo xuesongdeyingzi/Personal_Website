@@ -73,6 +73,21 @@ const skill =[
         id: 14,
         name: "React",
         star: "half"
+    },
+    {
+        id: 15,
+        name: "GCP/AWS",
+        star: "zero"
+    },
+    {
+        id: 16,
+        name: "Docker",
+        star: "zero"
+    },
+    {
+        id: 17,
+        name: "Kubernetes",
+        star: "zero"
     }
 ]
 

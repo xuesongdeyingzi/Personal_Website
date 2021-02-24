@@ -34,7 +34,7 @@ function Header(){
  
   <div id="home">
     <div className="container">
-      <img src={require("./images/xinxia.JPG")} className="img-fluid" alt="Profile" />
+      <img src={require("./images/xinxia.JPG").default} className="img-fluid" alt="Profile" />
       <h3 className="main-text mt-5">Hello, I’m Cynthia Song</h3>
       <p className="my-4 mb-5">A Data Professional</p>  
     </div>

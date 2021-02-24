@@ -35,22 +35,22 @@ function About() {
             <h4>Skills</h4>
             <div className="row">
       
-              <div className="col-md-4">
+              <div className="col-lg-4">
       
                 <ul className="no-bullets">
-                  <div>{skill.slice(0,5).map(createLevel)} </div>
+                  <div>{skill.slice(0,6).map(createLevel)} </div>
                 </ul>
               </div>
       
-              <div className="col-md-4">
+              <div className="col-lg-4">
                 <ul className="no-bullets">
-                <div>{skill.slice(5,10).map(createLevel)} </div>
+                <div>{skill.slice(6,12).map(createLevel)} </div>
                 </ul>
               </div>
       
-              <div className="col-md-4">
+              <div className="col-lg-4">
                 <ul className="no-bullets">
-                <div>{skill.slice(10,15).map(createLevel)} </div>
+                <div>{skill.slice(12,18).map(createLevel)} </div>
                 </ul>
               </div>
       

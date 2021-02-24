@@ -7,14 +7,14 @@ const position =[
     },
     {
         id: 1,
-        title: "Data Analyst",
-        text: "I'm a ninja for Excel and Tableau. I have good aesthetics so I can deliver high quality and meanwhile beautiful visualizations. I'm equipped with a business mind, I can tell insightful stories which help stakeholders make decisions.",
+        title: "Data Engieer",
+        text: "I'm a ninja that could combine data and engineering together. I'm experienced in Google big query, Amazon aws and Quoble database.",
         icon: "fas fa-calculator"
     },
     {
         id: 2,
         title: "Full Stack Developer",
-        text: "Although I just finished the web development bootcamp taught by Dr.Angela Yu, it doesn't mean I am a newbie to it. During the two months intensive training, I mastered HTML, CSS, JavaScript, Node.js, MongoDB and React.",
+        text: "With the web development bootcamp taught by Dr.Angela Yu, I had two months intensive training, I mastered HTML, CSS, JavaScript, Node.js, MongoDB and React. Besides after working with several full stack projects, I know docker and kubernetes for industry level production.",
         icon: "fas fa-laptop-code"
     }
 ]

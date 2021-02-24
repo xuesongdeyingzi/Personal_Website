@@ -12,6 +12,33 @@ function Experience(){
 
           <h3 className="mb-5 experience-title">Work</h3>
           <div className="experience-top">
+            <h6>2021 - Present</h6>
+            <h4>Data Scientist / Full Stack Engineer – Box</h4>
+            <p className="my-3">Strategic Decisions Platforms & Analyses Project</p>
+            <ul>
+              <li>The main goal of my work is to help Box transfer data from data center to public cloud.</li>
+              <li>Our team's purpose is to build a real time system that monitor the cost for each public cloud of each engineering team.</li>
+            </ul>
+          </div>
+
+
+          <div className="experience-top">
+            <h6>2020</h6>
+            <h4>Data Engineer – Gallup</h4>
+            <p className="my-3">World Poll Survey Project</p>
+            <ul>
+              <li>Emphasize on transferring traditional world poll survey system into a more efficient and modern system. </li>
+              <li>Participate in implementing front-end user friendly interfaces using Python, ReactJS and JavaScript and building connections using API to the back-end databases.</li>
+              <li>This project will significantly shorten the survey processing time from 6 months to 48 hours.</li>
+            </ul>
+            <p className="my-3">Artificial Social Intelligence for Successful Teams Project</p>
+            <ul>
+              <li>Clean and pre-process data into a much more concise and efficient way from json format to csv format.</li>
+              <li>The data is from virtual reality game and will be further used to study and predict the behavior of players.</li>
+            </ul>
+          </div>
+
+          <div className="experience-top">
             <h6>2019</h6>
             <h4>Data Science Intern – Digitas North America</h4>
             <p className="my-3">Samsung Mobile Project</p>
@@ -58,9 +85,9 @@ function Experience(){
             <h4>IST 707 - Data Analytics Class Project</h4>
             <p className="my-3">Airbnb Hosts Review Score Prediction Project</p>
             <ul>
+            <li>Operate machine learning algorithms in Python to predict Airbnb hosts' review score. </li>
             <li>Specific machine learning models include Linear Regression, Random Forest Regressor, and Gradient Boosting Regressor.</li> 
             <li>Grid search and cross validation techniques were applied to tune and analyze models.</li> 
-            <li>Operate k-means cluster to group players with similarity.</li>
             </ul>
           </div>
           <div className="experience-top">
